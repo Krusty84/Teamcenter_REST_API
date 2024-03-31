@@ -11,3 +11,9 @@ There are several HTML widgets for visualizing response from Teamcenter services
 ![GetQuery](https://user-images.githubusercontent.com/44873126/163731326-ac51a8e8-e5dd-4bb7-b1c7-1ec4dd18ca4b.png)
 
 
+**How to get the Teamcenter API description**
+
+ - cd ...aws2\stage 
+ - initenv 
+ - npm run genSoaApi 
+ - cd ...aws2\stage\out\soa\api
